@@ -82,7 +82,7 @@
                   <div class="medium-container">
                      <nav class="inner_box">
                         <div class="header_logo_box">
-                           <a href="index.html" class="logo navbar-brand">
+                           <a href="index.php" class="logo navbar-brand">
                               <img src="assets/images/logo.png" alt="Creote" class="logo_default">
                               <img src="assets/images/logo.png" alt="Creote" class="logo__sticky">
                            </a>
@@ -98,12 +98,12 @@
                               <div class="navigation_menu">
                                  <ul id="myNavbar" class="navbar_nav">
                                     <li class="menu-item nav-item">
-                                       <a href="index.html" class="dropdown-toggle nav-link">
+                                       <a href="index.php" class="dropdown-toggle nav-link">
                                           <span>Home</span>
                                        </a>
                                     </li>
                                     <li class="menu-item nav-item">
-                                       <a href="contactus.html" class="dropdown-toggle nav-link">
+                                       <a href="contactus.php" class="dropdown-toggle nav-link">
                                           <span>Contact Us</span>
                                        </a>
                                     </li>
