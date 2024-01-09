@@ -109,7 +109,7 @@
                                     </li>
                                     <li class="menu-item nav-item">
                                        <a href="hirequazi.php" class="dropdown-toggle nav-link">
-                                          <span class="text-danger">Hire Our Trainer/Consultants</span>
+                                          <span class="text-danger">Hire Our Trainers/Consultants</span>
                                        </a>
                                     </li>
                                  </ul>

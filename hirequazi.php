@@ -54,7 +54,7 @@
             Email: $email <br>
             Services: $Yoursubject <br><br>
             <b>Message:</b> $message <br>
-            ", "quazi.consultants@gmail.com");
+            ", "ziko.quaziconsultants@gmail.com");
             if ($email == 'Sent') {
                 $mess = "Thank you. We will be in touch shortly!";
             } else {
