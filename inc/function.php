@@ -86,7 +86,7 @@ function email_send($subject, $title, $text, $receiver)
     $mail->IsHTML(true);
     $mail->CharSet = 'UTF-8';
     $mail->Username = "tanvirhasanbcse@gmail.com";
-    $mail->Password = "epdmhsmovotxnwux";
+    $mail->Password = "";
     $mail->SetFrom("tanvirhasanbcse@gmail.com", "Quazi Consultants");
     $mail->addBCC("team@quaziconsultants.com", "Quazi Consultants");
     $mail->Subject = $subject;
