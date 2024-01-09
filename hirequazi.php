@@ -79,7 +79,7 @@
                                  <div class="contact_form_shortcode">
                                      <form method="post" action=" ">
                                          <?php if (isset($mess)) { ?>
-                                             <h3 class="h3 text-success text-center" ><?=$mess; ?></h3>
+                                             <h3 class="h3 text-success text-center"><?= $mess; ?></h3>
                                          <?php } else { ?>
 
                                              <div class="controls">
@@ -130,7 +130,7 @@
                                                              <select name="Yoursubject" id="">
                                                                  <option value="">Services</option>
                                                                  <option value="Traning">Traning</option>
-                                                                 <option value="Coching">Coching</option>
+                                                                 <option value="Coaching">Coaching</option>
                                                                  <option value="Consultancy">Consultancy</option>
                                                              </select>
                                                          </div>
