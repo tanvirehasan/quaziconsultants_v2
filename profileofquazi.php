@@ -7,7 +7,7 @@
 
      <div class="page_header_default style_one ">
          <div class="parallax_cover">
-             <div class="simpleParallax"><img src="assets/images/page-header-default.jpg" alt="bg_image" class="cover-parallax"></div>
+             <div class="simpleParallax"><img src="assets/images/sliders/slider-home-13-1.jpg" alt="bg_image" class="cover-parallax"></div>
          </div>
          <div class="page_header_content">
              <div class="auto-container">
@@ -23,7 +23,7 @@
                          <div class="breadcrumbs creote">
                              <ul class="breadcrumb m-auto">
                                  <li><a href="index.html">Home</a></li>
-                                 <li class="active">Contact</li>
+                                 <li class="active">Profile</li>
                              </ul>
                          </div>
                      </div>
@@ -42,27 +42,22 @@
              <!--===============spacing==============-->
              <div class="container">
                  <div class="row align-items-center">
-                     <div class="col-xl-12 col-lg-12 mb-5 mb-lg-5 mb-xl-0">
+          
+                 <div class="col-xl-12 col-lg-12 mb-5 mb-lg-5 mb-xl-0">
 
 
-                     <p>
-Quazi M. Ahmed boasts over 25 years of extensive expertise as a master trainer, specializing in training, facilitation, coaching, and consulting. His vast experience predominantly revolves around working with both national and multinational banks in Bangladesh. His proficiency spans a wide array of areas, encompassing Customer Service Excellence, Selling Skills, Leadership, Team Building, Negotiations, Conflict Resolution, and Change Management.
-
- <br><br>Here's a summary of his key attributes and achievements:<br><br>
-
-<b>Education and Training:</b> Quazi M. Ahmed has received education and training in the United States, Japan, Norway, and Bangladesh, providing him with a well-rounded and diverse knowledge base.
-
-<br><br> <b>Global Work with PUMA Group:</b> Quazi is currently engaged in a long-term contract with the German multinational company PUMA Group. He serves as a facilitator for its International Leadership Program (ILP) and Puma Leadership Expedition (PLE) in the Asia Pacific region.
-
-<br><br><b>Global Work with PUMA Group:</b> Quazi has conducted workshops and training sessions in various countries, including Thailand, Vietnam, Afghanistan, the United States, the United Kingdom, Canada, Denmark, Malaysia, India, and Nepal. This global exposure enriches his understanding of diverse cultures and leadership challenges.
-
-<br><br> <b>IFC-Certified Master Trainer:</b> Quazi holds the prestigious certification of IFC (International Finance Corporation), a member of the World Bank Group, as a Certified Master Trainer. This certification highlights his expertise in delivering high-quality training on an international level.
-
-<br><br> <b>Extensive Facilitation and Speaking Experience:</b> Over the last 25 years, Quazi has directly facilitated training sessions and speaking engagements attended by over 1,00,000 people. His clients include a broad spectrum of over 350 organizations across private, social, and public sectors.
+                <h3>Quazi M. Ahmed</h3>
+                <i>IFC Certified Master Trainer</i>
+                <p>Founder & CEO, Quazi Consultants</p>
 
 
+                <p>Educated and trained in Bangladesh, the US, Norway, and Japan, Quazi M. Ahmed is a renowned subject matter expert and thought leader with 27 years of experience in training, teaching, speaking, and coaching. His training expertise is mainly in the following areas: Leadership, Negotiation, Sales, Team building, and other soft skills such as Emotional intelligence, Conflict Resolution, and Change management. Since January 2022, he is the only IFC/World Bank Group Certified Master Trainer in Bangladesh. Over the years, he has conducted face-to-face training programs/and given talks in the USA, UK, Denmark, Malaysia, India, Nepal, Afghanistan, and Bangladesh—his home country. He has also done VILT (Virtual Instructor-Led Training) workshops and spoken at e-Conferences and webinars for audiences in dozen other countries.</p>
 
-                     </p>
+                <p>For his global presence in the areas of training, Mr. Ahmed received the “Global Training and Development Leadership Award” in February 2017 from the World HRD Congress in its 25th-anniversary celebrations. He has now facilitated training sessions attended by more than one hundred thousand people in multiple countries in the nonprofit, private, and public sectors.</p>
+
+                <p>In recent years, He has completed the following certifications: IFC/World Bank Group Certified Master Trainer, Certified facilitator, from InsideOut Coaching/Development (USA), Certified L&D Professional from Aon Hewitt Learning Center (UK& India), and Certified PPA Practitioner from Thomas Assessment Pvt. Ltd. (UK and India).</p>
+
+                <p>Mr. Ahmed is recognized as the pioneer of the modern approach to L&D in Bangladesh–the country of his birth. In 2016, he founded the Bangladesh Organization for Learning and Development (BOLD), the apex national body serving the needs of trainers, Learning & Development professionals, and others passionate about personal and professional development. One of Quazi’s main purposes in life is to become the best version of himself by practicing humility and confidence in his personal and professional spheres.</p>
 
                          
                      </div>                     

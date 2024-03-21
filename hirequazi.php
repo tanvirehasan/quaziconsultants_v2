@@ -7,7 +7,7 @@
 
      <div class="page_header_default style_one ">
          <div class="parallax_cover">
-             <div class="simpleParallax"><img src="assets/images/page-header-default.jpg" alt="bg_image" class="cover-parallax"></div>
+             <div class="simpleParallax"><img src="assets/images/sliders/slider-home-13-1.jpg" alt="bg_image" class="cover-parallax"></div>
          </div>
          <div class="page_header_content">
              <div class="auto-container">
