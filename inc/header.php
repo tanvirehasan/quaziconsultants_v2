@@ -102,16 +102,30 @@
                                           <span>Home</span>
                                        </a>
                                     </li>
+
+                                    <li class="menu-item nav-item">
+                                       <a href="about.php" class="dropdown-toggle nav-link">
+                                          <span>About Us</span>
+                                       </a>
+                                    </li>
+
+                                    <li class="menu-item nav-item">
+                                       <a href="profileofquazi.php" class="dropdown-toggle nav-link">
+                                          <span>Profile</span>
+                                       </a>
+                                    </li>
+
+
                                     <li class="menu-item nav-item">
                                        <a href="contactus.php" class="dropdown-toggle nav-link">
                                           <span>Contact Us</span>
                                        </a>
                                     </li>
-                                    <li class="menu-item nav-item">
+                                    <!-- <li class="menu-item nav-item">
                                        <a href="hirequazi.php" class="dropdown-toggle nav-link">
                                           <span class="text-danger">Hire Our Trainers/Consultants</span>
                                        </a>
-                                    </li>
+                                    </li> -->
                                  </ul>
                               </div>
                            </div>
