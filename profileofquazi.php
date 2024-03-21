@@ -45,10 +45,16 @@
           
                  <div class="col-xl-12 col-lg-12 mb-5 mb-lg-5 mb-xl-0">
 
-
-                <h3>Quazi M. Ahmed</h3>
-                <i>IFC Certified Master Trainer</i>
-                <p>Founder & CEO, Quazi Consultants</p>
+                 <div class="row">
+                    <div class="col-md-3">
+                        <img src="https://futureleaders.asia/wp-content/uploads/2022/10/quazisir-1.png" alt="">
+                    </div>
+                    <div class="col-md-9">
+                        <h3>Quazi M. Ahmed</h3>
+                        <i>IFC Certified Master Trainer</i>
+                        <p>Founder & CEO, Quazi Consultants</p>
+                    </div>
+                 </div>               
 
 
                 <p>Educated and trained in Bangladesh, the US, Norway, and Japan, Quazi M. Ahmed is a renowned subject matter expert and thought leader with 27 years of experience in training, teaching, speaking, and coaching. His training expertise is mainly in the following areas: Leadership, Negotiation, Sales, Team building, and other soft skills such as Emotional intelligence, Conflict Resolution, and Change management. Since January 2022, he is the only IFC/World Bank Group Certified Master Trainer in Bangladesh. Over the years, he has conducted face-to-face training programs/and given talks in the USA, UK, Denmark, Malaysia, India, Nepal, Afghanistan, and Bangladesh—his home country. He has also done VILT (Virtual Instructor-Led Training) workshops and spoken at e-Conferences and webinars for audiences in dozen other countries.</p>

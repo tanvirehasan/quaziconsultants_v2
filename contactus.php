@@ -46,7 +46,7 @@
                          <div class="contact_form_box_all type_one">
                              <div class="contact_form_box_inner">
                                  <div class="contact_form_shortcode">
-                                     <form id="contact-form" method="post" action="https://themepanthers.com/html/creote-html/contact.php" role="form" novalidate="true">
+                                     <form id="contact-form" method="post" action="contact.php" role="form" novalidate="true">
 
                                          <div class="messages"></div>
 
@@ -191,10 +191,7 @@
              <div class="container">
                  <div class="row">
                      <div class="col-lg-12">
-
-                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5334030224853!2d90.4116763760097!3d23.799624286883446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c766fc6e6a95%3A0xec30255892b08f05!2sQuazi%20Consultants!5e0!3m2!1sen!2sbd!4v1693143928374!5m2!1sen!2sbd&zoom=20" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5340914879675!2d90.41167347585922!3d23.799599786884787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7b8d767bb4d%3A0x3be436f22fa05ccc!2sQuazi%20Consultants!5e0!3m2!1sen!2sbd!4v1711008555430!5m2!1sen!2sbd" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                      </div>
                  </div>
              </div>
