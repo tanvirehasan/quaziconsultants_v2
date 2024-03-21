@@ -111,7 +111,7 @@
 
                                     <li class="menu-item nav-item">
                                        <a href="profileofquazi.php" class="dropdown-toggle nav-link">
-                                          <span>Profile</span>
+                                          <span>Lead Consultant</span>
                                        </a>
                                     </li>
 
